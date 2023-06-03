@@ -1,0 +1,6 @@
+id,color,size,owner,material,price,quantity,width,lenght,type
+1,red,52,woman,silk,50,1,17.8,22,athletic shoes
+2,green,54,men,silk,60,2,14.5,23,dress shoes
+3,blue,48,men,silk,70,3,13.6,24,sandals
+4,black,46,men,silk,80,4,14.6,25,boots
+5,white,44,woman,silk,90,3,15,21,sport shoe
